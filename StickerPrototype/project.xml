@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="StickerPrototype" package="com.danhett.stickerprototype" version="1.0.0" company="danhett.com" />
+	<app main="Main" path="deploy" file="StickerPrototype" />
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	
+	<assets path="assets" rename="assets" exclude="nme.svg" />
+	<icon path="assets/nme.svg" />
+	
+</project>
