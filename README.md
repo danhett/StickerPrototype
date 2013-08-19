@@ -1,4 +1,4 @@
 StickerPrototype
 ================
 
-Prototype framework
+Prototype framework. Requires OpenFL.
