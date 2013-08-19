@@ -1,0 +1,4 @@
+StickerPrototype
+================
+
+Prototype framework
